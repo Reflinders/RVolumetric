@@ -14,4 +14,4 @@ RVolumetric.Settings = {
 }
 ```
 # Credits
-It should be noted that this is built off of filiprodak's open-source module, "BetterGraphics." However, it does improve upon it with several features and much more garbage collecting.
+It should be noted that this is built off of filiprodak's open-source module, "BetterGraphics," and utilizes several samples of its code to function. However, this does improve upon it with several features and much more garbage collecting.
